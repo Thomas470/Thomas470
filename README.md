@@ -3,7 +3,7 @@
 
 
 - 🔍 Problem Solver.
-- 🧑‍💻 Full-Stack | A.I. & M.L.
+- 🧑‍💻 A.I. & M.L. | Full-Stack
 - 📫 thomasfrentzel@outlook.com
 
 ##
